@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Кинопоиск: очистка UTM и переход к плееру
 // @namespace    https://teletype.in/@fbdostup/
-// @version      1.2.0
+// @version      1.2.1
 // @description  Удаляет UTM, добавляет кнопку перехода и скрывает блок .topAdPad на целевой странице фильма.
 // @match        https://kinopoisk.ru/*
 // @match        https://www.kinopoisk.ru/*
@@ -13,8 +13,8 @@
 // @grant        GM_registerMenuCommand
 // @author       Jeronimo701
 // @license      LicenseRef-Jeronimo701-Personal-Use-1.0
-// @updateURL    https://gist.githubusercontent.com/jeronimo701/f96c93f82248a2ef4ac00a32e0b069dd/raw/Kinopoisk_clean_and_redirect.user.js
-// @downloadURL  https://gist.githubusercontent.com/jeronimo701/f96c93f82248a2ef4ac00a32e0b069dd/raw/Kinopoisk_clean_and_redirect.user.js
+// @updateURL    none
+// @homepageURL  https://github.com/jeronimo701/Kinopoisk-clean-and-redirect
 // ==/UserScript==
 
 (function () {
