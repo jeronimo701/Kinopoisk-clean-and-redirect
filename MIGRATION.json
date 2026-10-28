@@ -4,7 +4,8 @@
   "source_commit": "f2fa6a4180224a430df540900b1c6c728169d111",
   "source_tree": "3a3e7131989026c5d9f8db77e9000e977d05af3d",
   "destination": "https://github.com/jeronimo701/Kinopoisk-clean-and-redirect",
-  "private": true,
+  "private": false,
+  "made_public_on": "2026-10-28",
   "history_preserved": true,
   "old_gist_to_be_deleted_after_verification": true
 }
